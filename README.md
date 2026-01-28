@@ -8,8 +8,8 @@ This activity is a general practical exercise designed to introduce to the basic
 
 !!!! INSTRUCTIONS !!!!
 
-To start netpracticing, downdload file attached to the project's page.
-Extract them wherever you want.
+To start netpracticing, download file attached to the project's page.
+Extract it wherever you want.
 Rund index.html. It should open in a browser.
 You can put your login in the field to use your configuration, choose between training and evaluation mode.
 Now you see, respectively, first non-functioning network diagram (level1) or random level from range 6-10.
